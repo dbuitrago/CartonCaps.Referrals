@@ -1,0 +1,6 @@
+@CartonCaps.Referrals.ApiMock_HostAddress = http://localhost:5182
+
+GET {{CartonCaps.Referrals.ApiMock_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
